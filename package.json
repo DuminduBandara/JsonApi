@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node navLinks.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
