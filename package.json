@@ -1,0 +1,25 @@
+{
+  "name": "jsonapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node navLinks.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshan969Github/JsonApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakshan969Github/JsonApi/issues"
+  },
+  "homepage": "https://github.com/lakshan969Github/JsonApi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  }
+}
